@@ -50,6 +50,6 @@ main(){
   // 8. remove an element from index 2
   information.remove('name');
   // information.clear();
-  print("After add a new element to my Map : $information");
+  print("After remove a element to my Map : $information");
 
 }
