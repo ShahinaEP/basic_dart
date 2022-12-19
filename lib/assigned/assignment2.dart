@@ -107,4 +107,8 @@ forInLoop() {
     }
   // }
 
+  for( var element in elements){
+    print(element['name']);
+  }
+
 }
